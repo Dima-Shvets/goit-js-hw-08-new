@@ -1,5 +1,5 @@
 export default {
-    gallery: document.querySelector('.gallery'),
+    gallery: document.querySelector('.gallery_'),
 
     player: document.querySelector('iframe'),
     
